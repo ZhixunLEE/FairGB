@@ -14,7 +14,6 @@
   - [Dependencies](#dependencies)
   - [Datasets](#datasets)
   - [Running](#running)
-  - [Additional Experiments](#additional-experiments)
 
 ## Dependencies
 * python>=3.7
